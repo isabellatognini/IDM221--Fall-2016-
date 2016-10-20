@@ -43,3 +43,28 @@ li {font-family: Century Gothic,CenturyGothic,sans-serif;
 img {display: block;
 margin-left: auto;
 margin-right: auto;}
+
+.container {color: black;
+text-align: center;
+font-family: Century Gothic,CenturyGothic,sans-serif;
+	font-size: 35px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;}
+
+.image {width: 940px;
+  margin-top:90px;
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+ .contacts
+{color: #4d4d4d;
+text-align: center;
+font-family: Century Gothic,CenturyGothic,sans-serif;
+	font-size: 35px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;}
