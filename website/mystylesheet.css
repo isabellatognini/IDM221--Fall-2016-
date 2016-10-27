@@ -53,7 +53,7 @@ img {display: block;
 	font-size: 35px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 500;
+	font-weight: 400;
 	line-height: 26.4px;}
 
 .image {width: 940px;
@@ -67,5 +67,13 @@ img {display: block;
 	font-family: 'Inconsolata', monospace; /* possibly change back to Century Gothic*/
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 500;
+	font-weight: 400;
 	line-height: 26.4px;}
+
+.portfoliolist 
+{	color: #4d4d4d;
+	font-family: 'Inconsolata', monospace; /* possibly change back to Century Gothic*/
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;}
